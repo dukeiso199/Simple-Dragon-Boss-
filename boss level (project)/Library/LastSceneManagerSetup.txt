@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Boss fight/Scenes/BossBattle.unity
+  isLoaded: 1
+  isActive: 1
